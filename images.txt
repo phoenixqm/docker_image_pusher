@@ -1,2 +1,3 @@
 valkey/valkey:8
 infiniflow/infinity:v0.6.0-dev3
+infiniflow/ragflow:v0.16.0
